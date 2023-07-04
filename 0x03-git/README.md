@@ -1,1 +1,1 @@
-my second readme file
+my first directory on github for alx project
